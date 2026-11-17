@@ -1,0 +1,1 @@
+<footer>JLB COLLECTION'S <div style="margin-top:10px;font-size:9px;letter-spacing:.12em">JEREMY · BLESS · LESTER — THREE NAMES, ONE COLLECTION.</div></footer></body></html>
